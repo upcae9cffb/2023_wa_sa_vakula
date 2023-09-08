@@ -8,6 +8,6 @@
 # =
 ![download](https://github.com/upcae9cffb/2023_wa_sa_vakula/assets/94872285/707014b3-0d86-4cf1-959d-64b0617f5853)
 
-## We live
-## We love
-## We lie
+- We live
+- We love
+- We lie
