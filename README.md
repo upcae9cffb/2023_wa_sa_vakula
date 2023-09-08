@@ -1,4 +1,4 @@
-# 2023_wa_sa_vakula
+# Webové aplikace 2023
 
   > ![download](https://github.com/upcae9cffb/2023_wa_sa_vakula/assets/94872285/c0452567-917c-4b74-bedd-2f59472043f7)
   > # +
